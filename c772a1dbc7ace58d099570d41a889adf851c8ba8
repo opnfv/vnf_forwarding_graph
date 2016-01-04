@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a5c5d37_d1bdef69",
+        "filename": "devstack/README.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 847
+      },
+      "writtenOn": "2016-01-04T23:28:59Z",
+      "side": 1,
+      "message": "Assumes devstack based installation and configuration. For any other installer separate configurations and scripts will be required to apply.",
+      "revId": "c772a1dbc7ace58d099570d41a889adf851c8ba8",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a5c5d37_b1995b21",
+        "filename": "devstack/plugin.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 847
+      },
+      "writtenOn": "2016-01-04T23:28:59Z",
+      "side": 1,
+      "message": "Line continuation beyond 78 columns needed here to fold the code to next line",
+      "revId": "c772a1dbc7ace58d099570d41a889adf851c8ba8",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a5c5d37_91a09744",
+        "filename": "devstack/settings",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 847
+      },
+      "writtenOn": "2016-01-04T23:28:59Z",
+      "side": 1,
+      "message": "Line continuation needed here for code exceeding 78 Clolumn",
+      "revId": "c772a1dbc7ace58d099570d41a889adf851c8ba8",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a5c5d37_71a3e34f",
+        "filename": "doc/source/alembic_migration.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 847
+      },
+      "writtenOn": "2016-01-04T23:28:59Z",
+      "side": 1,
+      "message": "Line exceeding 78 column again needs fixing.",
+      "revId": "c772a1dbc7ace58d099570d41a889adf851c8ba8",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a5c5d37_518a1fc0",
+        "filename": "doc/source/api.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 847
+      },
+      "writtenOn": "2016-01-04T23:28:59Z",
+      "side": 1,
+      "message": "Line exceeds 78 column, needs fix",
+      "revId": "c772a1dbc7ace58d099570d41a889adf851c8ba8",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a5c5d37_31856bad",
+        "filename": "doc/source/command_extensions.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 847
+      },
+      "writtenOn": "2016-01-04T23:28:59Z",
+      "side": 1,
+      "message": "Line exceeding 78 columns , needs fix",
+      "revId": "c772a1dbc7ace58d099570d41a889adf851c8ba8",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a5c5d37_1194a7e0",
+        "filename": "doc/source/ovs_driver_and_agent_workflow.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 847
+      },
+      "writtenOn": "2016-01-04T23:28:59Z",
+      "side": 1,
+      "message": "Line exceeds 78 column, needs fix",
+      "revId": "c772a1dbc7ace58d099570d41a889adf851c8ba8",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    }
+  ]
+}
