@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dabed58f_0bbcbdba",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 335
+      },
+      "writtenOn": "2017-02-27T18:18:13Z",
+      "side": 1,
+      "message": "trailing space",
+      "revId": "4b48bf9e4a988b9fd1c6f43b8bb5e26542679fd3",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dabed58f_abb011de",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 335
+      },
+      "writtenOn": "2017-02-27T18:18:13Z",
+      "side": 1,
+      "message": "maybe explicit VNFFG the first time it is mentioned",
+      "revId": "4b48bf9e4a988b9fd1c6f43b8bb5e26542679fd3",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dabed58f_cbb545ce",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 335
+      },
+      "writtenOn": "2017-02-27T18:18:13Z",
+      "side": 1,
+      "message": "I would suggest\nThe feature is integrated with tacker in OPNFV scenario. Multiple backend......following documentation:\n * https://docs.openstack.org/newton/networking-guide/config-sfc.html\n....",
+      "revId": "4b48bf9e4a988b9fd1c6f43b8bb5e26542679fd3",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dabed58f_6bca1951",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 335
+      },
+      "writtenOn": "2017-02-27T18:18:13Z",
+      "side": 1,
+      "message": "bad format for the link",
+      "revId": "4b48bf9e4a988b9fd1c6f43b8bb5e26542679fd3",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dabed58f_8bc74d45",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 335
+      },
+      "writtenOn": "2017-02-27T18:18:13Z",
+      "side": 1,
+      "message": "I would suggest a Video section\nthen subsection depending on what you want to insist on",
+      "revId": "4b48bf9e4a988b9fd1c6f43b8bb5e26542679fd3",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    }
+  ]
+}
