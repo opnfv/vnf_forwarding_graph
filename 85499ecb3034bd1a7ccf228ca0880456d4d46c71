@@ -131,6 +131,30 @@
       "revId": "85499ecb3034bd1a7ccf228ca0880456d4d46c71",
       "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dabed58f_8e351648",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 121
+      },
+      "writtenOn": "2017-03-01T20:37:34Z",
+      "side": 1,
+      "message": "Will add link to slides",
+      "parentUuid": "dabed58f_ce046e80",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 56,
+        "endChar": 131
+      },
+      "revId": "85499ecb3034bd1a7ccf228ca0880456d4d46c71",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
     }
   ]
 }
