@@ -1,0 +1,136 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dabed58f_aeb57ace",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 847
+      },
+      "writtenOn": "2017-03-01T19:40:56Z",
+      "side": 1,
+      "message": "The following three links refer to evolution of port-chain based Service Function Chaining(SFC) from specification to implementation as in OpenStack Newton and Ocata and the associated API available through Neutron.",
+      "range": {
+        "startLine": 20,
+        "startChar": 53,
+        "endLine": 20,
+        "endChar": 54
+      },
+      "revId": "85499ecb3034bd1a7ccf228ca0880456d4d46c71",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dabed58f_8ee756e4",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 847
+      },
+      "writtenOn": "2017-03-01T19:40:56Z",
+      "side": 1,
+      "message": "The following links take you through evolution of Tacker in using OpenStack networking-sfc and associated Specs, Blueprint, TOSCA metadata,Data models and abstractions to support the Network Forwarding Path abstraction and orchestration needed to use port-chain for sfc usecases and the integration with dashboard horizon for VFFG support.",
+      "revId": "85499ecb3034bd1a7ccf228ca0880456d4d46c71",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dabed58f_0edb661c",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 847
+      },
+      "writtenOn": "2017-03-01T19:40:56Z",
+      "side": 1,
+      "message": "The following links take you through the networking-onos layer to facilitate integration through sfc-driver between neutron-sfc and onos support of it for both driver and flow classification and that includes specifications, blueprints and codes that were added to test the APIs using VNF Forwarding use cases. As per OPNFV project creation time the parity will be maintained between ODL an ONOS. Current ONOS Ibis release has not completed the YANG native model support and will be made available once ready in ONOS K release through OPNFV Release-E.",
+      "range": {
+        "startLine": 38,
+        "startChar": 0,
+        "endLine": 38,
+        "endChar": 1
+      },
+      "revId": "85499ecb3034bd1a7ccf228ca0880456d4d46c71",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dabed58f_4ed15efa",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 44,
+      "author": {
+        "id": 847
+      },
+      "writtenOn": "2017-03-01T19:40:56Z",
+      "side": 1,
+      "message": "The networking-sfc for ODL integration requires a shim layer to translate the port-chain based API calls to native Yang Model used by ODL and the specifications, Blueprints and associated code reflect the same in links referred below.",
+      "range": {
+        "startLine": 44,
+        "startChar": 0,
+        "endLine": 44,
+        "endChar": 1
+      },
+      "revId": "85499ecb3034bd1a7ccf228ca0880456d4d46c71",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dabed58f_2ed8aa1c",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 847
+      },
+      "writtenOn": "2017-03-01T19:40:56Z",
+      "side": 1,
+      "message": "and Sldies",
+      "range": {
+        "startLine": 47,
+        "startChar": 0,
+        "endLine": 47,
+        "endChar": 6
+      },
+      "revId": "85499ecb3034bd1a7ccf228ca0880456d4d46c71",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dabed58f_ce046e80",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 847
+      },
+      "writtenOn": "2017-03-01T19:40:56Z",
+      "side": 1,
+      "message": "- https://www.youtube.com/watch?v\u003d85n8YEywdrk\n- https://www.openstack.org/assets/presentation-media/SFC-for-OpenStack-Austin-Aummit-publich.pdf\n\nCorrect the links if they have changed",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 56,
+        "endChar": 131
+      },
+      "revId": "85499ecb3034bd1a7ccf228ca0880456d4d46c71",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    }
+  ]
+}
