@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dabed58f_99e4793c",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1569
+      },
+      "writtenOn": "2017-03-06T23:13:23Z",
+      "side": 1,
+      "message": "Please refer to tacker docs instead of tacker-specs as VNFFG is a released feature in newton.",
+      "range": {
+        "startLine": 41,
+        "startChar": 4,
+        "endLine": 41,
+        "endChar": 25
+      },
+      "revId": "44d2068fb11bb18d0c9f30605ebb279c12af6d13",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dabed58f_39d1cd57",
+        "filename": "docs/release/userguide/feature.userguide.rst",
+        "patchSetId": 1
+      },
+      "lineNbr": 43,
+      "author": {
+        "id": 1569
+      },
+      "writtenOn": "2017-03-06T23:13:23Z",
+      "side": 1,
+      "message": "Please add references to Tacker VNFFG user documentation,\n\n1) Tacker VNFFG User Guide\nhttps://docs.openstack.org/developer/tacker/newton/devref/vnffg_usage_guide.html\n\n2) TOSCA VNFFGD Descriptor Template https://docs.openstack.org/developer/tacker/newton/devref/vnffgd_template_description.html",
+      "revId": "44d2068fb11bb18d0c9f30605ebb279c12af6d13",
+      "serverId": "bbac25d2-bf60-4904-9ba8-a72fc000d6c5",
+      "unresolved": false
+    }
+  ]
+}
