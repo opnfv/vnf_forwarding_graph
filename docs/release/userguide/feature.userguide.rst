@@ -38,9 +38,11 @@ Integration with Openstack Tacker VNFFG Orchestrator
 ----------------------------------------------------
 Tacker uses OpenStack networking-sfc to support the VNFFG Network Forwarding
 Path (NFP) abstraction which maps directly to a networking-sfc Port Chain.
-The Tacker specifications, including TOSCA metadata, data models and
+The Tacker documentation, including TOSCA metadata, data models and
 abstractions to support orchestration are referenced.
 
+- Tacker VNFFG User Guide https://docs.openstack.org/developer/tacker/newton/devref/vnffg_usage_guide.html
+- TOSCA VNFFGD Descriptor Template https://docs.openstack.org/developer/tacker/newton/devref/vnffgd_template_description.html
 - https://specs.openstack.org/openstack/tacker-specs/specs/newton/tacker-networking-sfc.html
 - https://specs.openstack.org/openstack/tacker-specs/specs/newton/tacker-vnffg.html
 - https://blueprints.launchpad.net/tacker/+spec/tacker-vnffg
