@@ -1,0 +1,56 @@
+---
+project: 'Requirement'
+project_creation_date: ''
+project_category: 'Requirement'
+lifecycle_state: ''
+project_lead: &opnfv_vnf_forwarding_graph_ptl
+    name: 'cathy zhang'
+    email: 'cathy.h.zhang@huawei.com'
+    id: 'cathy.h.zhang'
+    company: 'huawei.com'
+    timezone: 'Unknown'
+primary_contact: *opnfv_vnf_forwarding_graph_ptl
+issue_tracking:
+    type: 'jira'
+    url: 'https://jira.opnfv.org/projects/vfngraph'
+    key: 'vfngraph'
+mailing_list:
+    type: 'mailman2'
+    url: 'opnfv-tech-discuss@lists.opnfv.org'
+    tag: '[vnf_forwarding_graph]'
+realtime_discussion:
+    type: irc
+    server: 'freenode.net'
+    channel: '#opnfv-vnf_forwarding_graph'
+meetings:
+    - type: 'gotomeeting+irc'
+      agenda:  # eg: 'https://wiki.opnfv.org/display/'
+      url:  # eg: 'https://global.gotomeeting.com/join/819733085'
+      server: 'freenode.net'
+      channel: '#opnfv-meeting'
+      repeats: 'weekly'
+      time:  # eg: '16:00 UTC'
+repositories:
+    - 'vnf_forwarding_graph'
+committers:
+    - <<: *opnfv_vnf_forwarding_graph_ptl
+    - name: 'Louis Fourie'
+      email: 'louis.fourie@huawei.com'
+      company: 'huawei.com'
+      id: 'lfourie'
+    - name: 'David Lenrow'
+      email: 'david.lenrow@huawei.com'
+      company: 'huawei.com'
+      id: 'dlenrow'
+    - name: 'Balaji Patnala'
+      email: 'balaji.p@freescale.com'
+      company: 'freescale.com'
+      id: 'balajip'
+    - name: 'Nicolas Bouthors'
+      email: 'nicolas.bouthors@qosmos.com'
+      company: 'qosmos.com'
+      id: 'nbouthors'
+tsc:
+    # yamllint disable rule:line-length
+    approval: 'http//meetbot.opnfv.org/meetings/opnfv-meeting/'
+    # yamllint enable rule:line-length
